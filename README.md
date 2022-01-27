@@ -12,3 +12,10 @@
 
 
 Conceitos aprendidos nesse curso : conceitos de iniciais de git, github e versionamento, comandos mais utilizados, trabalhar com branchs, fazer pull requests, colaborar com projetos de outras pessoas e gerenciar issues e pull requests com o github projects.
+
+
+
+
+
+aula 3 - exercicio de resolucao de conflito
+
